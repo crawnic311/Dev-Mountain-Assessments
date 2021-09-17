@@ -1,0 +1,112 @@
+﻿Module 1 Assessment - Dev Mountain
+
+
+Part 1
+User Personas
+Made in Google Slides
+https://docs.google.com/presentation/d/1nmRG52aiYqEFFLECmmoJXaeBpo2Vp2OIdh2de9XR-KU/edit?usp=sharing
+
+
+  
+
+  
+
+
+
+  
+
+
+
+App name - Meal Time
+
+
+Part 2
+Minimum Viable Product (MVP)
+* User/Restaurant profile
+   * Location
+   * General food interests
+   * Preferred price range
+   * Preferred meal times
+   * Preferred payment information
+   * Ability to close or cancel account
+   * Profile option for local eateries that want to stand out
+* Restaurant Finder Features
+   * Find by category
+   * Find by price
+   * Find by location or distance
+   * Find by map
+   * General menus for associated restaurants
+   * Find by rating
+* Schedule an order features
+   * Schedule orders to be ready at _____ time every day, every Monday, etc.
+   * 1-click repeat order from order history
+* Recommend new places to try
+   * Recommendations based on order history
+   * Recommendations based on preferences in their profile
+* Share your experience features
+   * Leaving a rating directly through the app
+   * Share and recommend and a restaurant with a friend
+   * Share your experience on social media
+* Discounts and coupons features
+   * Send promotional discounts based on the restaurants marketing goals
+   * Send discounts to loyal customers
+
+
+User Stories
+1. I am a working professional in the tech industry. I love automating and optimizing programs and workflows. I am looking for an app that can automate my lunch ordering without compromising my commitment to a healthy diet. I would also love to become aware of new places to order from in my area without having to search the internet. 
+   1. User profile
+   2. Schedule an order features
+   3. Recommend new places to try
+
+
+2. I’m working from home as a technical writer. I can usually cook for myself, but sometimes I’m just not feeling it. I’m not too picky, so I’m looking mostly for highly-rated new restaurants for the special days I want to treat myself to a novel food experience. 
+   1. User profile
+   2. Recommend new places to try
+   3. Find by rating
+
+
+3. I just got a new role as a marketing manager in the tech industry and I anticipate I’ll need to start ordering lunches for myself more frequently. I love most types of food, so I’m just looking for some cheap eats from a variety of local places on the days I’m more busy than normal.
+   1. User profile
+   2. Find by price
+   3. Recommend new places to try
+   4. 1-click repeat order from order history
+4. I moved to America to start an authentic Thai Restaurant run by me and my family. We have a lot of details figured out but we are still considering our marketing strategy. We don’t want to spend too much money on broad advertisements, we’re really just looking to target and capture the loyalty of customers who already love Thai Food.
+   1. Profile option for local eateries that want to stand out
+   2. Send discounts to loyal customers
+   3. Share your experience features
+
+
+5. I am a franchisee of Wendy’s. We have been struggling against our competition with all of the new places that have been popping up and drawing attention. We planning to run some new promos that will hopefully shift a share of the market back in our direction. 
+   1. Discounts and coupons features
+   2. Restaurant finder features
+   3. Share your experience features
+
+
+
+
+Trello
+https://trello.com/invite/b/LIsdJnH2/89fe6308d396047b1b68f81281a1a785/meal-times-app
+Or
+  
+
+
+
+Part 3
+Figma
+Jameson (User story 3-Marketing Manager) searching for food based on low price and ordering
+https://www.figma.com/file/LWYKBX8CrGJfgZHn3dnd5a/Meal-Time-App-Sketch?node-id=0%3A1
+
+
+
+
+Extra Credit
+Amazon
+Java, C++, C#, object-oriented design, functional programming
+
+
+Entrata
+SQL, PHP, Java, C#
+
+
+Qualtrics
+Java, PHP, Scala, HTML, CSS, Javascript-angular/node, SQL, MySQL
